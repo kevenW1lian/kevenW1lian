@@ -113,7 +113,7 @@ Me chamo Keven Wilian, tenho 24 anos e sou natural de Pernambuco. Concluí o ens
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenW1lian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
